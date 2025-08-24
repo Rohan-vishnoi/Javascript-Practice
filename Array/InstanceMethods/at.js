@@ -28,3 +28,4 @@ const arrayLike = {
 };
 console.log(Array.prototype.at.call(arrayLike, 0)); // "a"
 console.log(Array.prototype.at.call(arrayLike, 2)); // undefined
+
