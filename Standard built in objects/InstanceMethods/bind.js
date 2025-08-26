@@ -8,3 +8,5 @@ const module = {
     }
 };
 
+const unBoundX = module.getx;
+console.log(unBoundX);
